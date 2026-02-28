@@ -1,6 +1,6 @@
 # task5
 
-README File for GitHub – Task 5: Salary Prediction Model
+ Task 5: Salary Prediction Model
 
 You can copy this into a README.md file and upload it to GitHub.
 
