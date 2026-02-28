@@ -78,6 +78,3 @@ Mean Squared Error value
 
 ✅ Task 5 Completed
 
-#DataScience #MachineLearning #LinearRegression #Python #DataAnalysis #Kodbud #Internship #GitHub #LearningJourney
-
-If you want, I can also generate a GitHub repository description (short one-line text).
